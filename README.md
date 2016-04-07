@@ -1,3 +1,3 @@
-Assignment 3 - Seng 403 Stuff
+SENG 403 Assignment 3
 
-Da kings
+Extension of Study
