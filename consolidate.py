@@ -97,13 +97,6 @@ def findMaxAndPrint():
 		row = row + 1
 
 
-
-
-
-
-
-			
-
 normalize()
 findMaxAndPrint()
 wb.save('temp.xlsx')
